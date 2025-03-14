@@ -33,3 +33,5 @@ The system employs a **CNN-based architecture** for ASL classification. The mode
 - Improve model accuracy with a larger dataset.
 - Support for dynamic ASL gestures.
 
+### 🔗 Project Link
+[GitHub Repository](https://github.com/viniskykumar/Sign_Language_Recognition)
